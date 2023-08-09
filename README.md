@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 kodluyoruz eğitimi kapsamında açtığım ilk repo
 # Installation
-git clone 
+git clone sudenazyetkin/kodluyoruzilkrepo.git
 # Usage
 linux için
 cd kodluyoruzilkrepo
